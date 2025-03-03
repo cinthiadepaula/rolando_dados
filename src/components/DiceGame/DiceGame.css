@@ -1,0 +1,19 @@
+.page{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+}
+.button_dice{
+    background-color: #007bff;
+    color: white;
+    margin:20px;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
